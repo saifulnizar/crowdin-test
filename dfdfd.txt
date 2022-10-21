@@ -1,0 +1,24 @@
+Detail Login cPanel
+
+Domain: www.jucejuice.com
+cPanel Username: jucejuic
+cPanel Password: gp3!YUpN5d66W:
+Control Panel URL: http://lyanna.id.rapidplex.com/
+cpanelAlternatif: http://jucejuice.com/cpanel
+
+Mohon pastikan tidak ada karakter spasi di belakang username/password ketika melakukan copy-paste.
+
+Informasi Server
+
+Server Name: Jakarta - LyannaServer IP: 103.147.154.53
+SSH Port: 64000MySQL Server: localhost 
+Untuk memulai menggunakan layanan hosting dari DomaiNesia, Anda perlu mengarahkan nameserver domain anda ke: 
+Nameserver 1: ns1.domainesia.net (103.147.154.34)
+Nameserver 2: ns2.domainesia.net (172.104.180.98)
+
+https://centaur.indowebsite.net:2083/
+apip: user : sinkrone
+pass : sudahdigantilagi
+
+packages/expo-splash-screen/android/src/main/java/expo/modules/splashscreen/SplashScreenController.kt
+https://github.com/saifulnizar
